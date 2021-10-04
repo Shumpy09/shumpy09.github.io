@@ -21,7 +21,8 @@ Aplikacja umożliwia użytkownikowi założenie konta oraz dodawanie postów,
 dzięki którym może m.in. monitorować swoje postępy w nauce
 
 
-# repozytorium [uDemy](https://github.com/Shumpy09/kurs-uDemy)
+repozytorium [uDemy](https://github.com/Shumpy09/kurs-uDemy)
+---
 
-
-# rozwiązania zadań [Practice Python](https://github.com/Shumpy09/practicepython.org)
+rozwiązania zadań [Practice Python](https://github.com/Shumpy09/practicepython.org)
+---
