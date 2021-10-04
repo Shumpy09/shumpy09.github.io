@@ -5,6 +5,8 @@
 # Projekt 2: Wizualizacja danych
 
 # Projekt 3: Aplikacja internetowa
+* [Blog (https://github.com/Shumpy09/blog)]
+* Learning Log
 
 # repozytorium uDemy
 
