@@ -8,6 +8,7 @@ Projekt 3: Aplikacja internetowa
 ===
 
 [Blog](https://github.com/Shumpy09/blog)
+
 Learning Log
 ---
 
