@@ -10,11 +10,9 @@ Projekt 2: Wizualizacja danych
 Projekt 3: Aplikacja internetowa
 ---
 
-[Blog](https://github.com/Shumpy09/blog)
+[Blog](https://blogs-shumpy09.herokuapp.com/)
 
-
-[Learning Log](https://github.com/Shumpy09/Learning-Log)
-* https://learning-log-9w.herokuapp.com/
+[Learning Log](https://learning-log-9w.herokuapp.com/)
 
 
 # repozytorium uDemy
