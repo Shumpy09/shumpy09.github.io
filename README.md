@@ -18,10 +18,10 @@ mapy pokazującej miejsca występowania trzęsień ziemi oraz ich siły.
 
 Projekt 3: Aplikacja internetowa
 ---
-* [Blog](https://blogs-shumpy09.herokuapp.com/)
-
 Aplikacja umożliwia użytkownikowi założenie konta oraz dodawanie postów, 
 dzięki którym może m.in. monitorować swoje postępy w nauce
+* [Blog](https://blogs-shumpy09.herokuapp.com/)
+
 
 https://github.com/Shumpy09/blog
 
