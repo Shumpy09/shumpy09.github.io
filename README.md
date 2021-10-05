@@ -24,7 +24,7 @@ dzięki którym może m.in. monitorować swoje postępy w nauce
 
 https://github.com/Shumpy09/blog
 
-repozytorium [uDemy](https://github.com/Shumpy09/kurs-uDemy)
+kurs [uDemy](https://github.com/Shumpy09/kurs-uDemy)
 ---
 
 rozwiązania zadań [Practice Python](https://github.com/Shumpy09/practicepython.org)
