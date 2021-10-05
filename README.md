@@ -6,6 +6,7 @@ Projekt 1: Alien Invasion
 ---
 Gra, w której sterujemy statkiem kosmicznym, a naszym zadaniem jest
 zestrzeliwanie zbliżających się obych 
+* [Alien Invasion](https://github.com/Shumpy09/alien-invasion)
 
 Projekt 2: Wizualizacja danych
 ---
@@ -13,7 +14,7 @@ Generowanie danych i tworzenie na ich podstawie wykresów.
 
 Pobranie z internetu danych o ruchach tektonicznych ziemi i wyświetlenie
 mapy pokazującej miejsca występowania trzęsień ziemi oraz ich siły.
-* https://github.com/Shumpy09/data_visualization/tree/master/mapping_global_data_set
+* [Data visualization](https://github.com/Shumpy09/data_visualization/tree/master/mapping_global_data_set)
 
 Projekt 3: Aplikacja internetowa
 ---
