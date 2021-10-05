@@ -23,7 +23,7 @@ Aplikacja umożliwia użytkownikowi założenie konta oraz dodawanie postów,
 dzięki którym może m.in. monitorować swoje postępy w nauce
 * [Blog](https://blogs-shumpy09.herokuapp.com/)
 
-![](https://github.com/Shumpy09/blog/blob/master/blog.PNG)
+![](https://raw.githubusercontent.com/Shumpy09/blog/master/blog.PNG)
 
 https://github.com/Shumpy09/blog
 
