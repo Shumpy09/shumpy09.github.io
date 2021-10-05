@@ -1,4 +1,5 @@
-# shumpy09.github.io
+# Szymon Hadada
+email: szymon.hadada@gmail.com
 
 
 Projekt 1: Alien Invasion
