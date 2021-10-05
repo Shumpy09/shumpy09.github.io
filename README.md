@@ -13,6 +13,7 @@ Generowanie danych i tworzenie na ich podstawie wykresów.
 
 Pobranie z internetu danych o ruchach tektonicznych ziemi i wyświetlenie
 mapy pokazującej miejsca występowania trzęsień ziemi oraz ich siły.
+* https://github.com/Shumpy09/data_visualization/tree/master/mapping_global_data_set
 
 Projekt 3: Aplikacja internetowa
 ---
