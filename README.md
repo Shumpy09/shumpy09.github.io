@@ -1,7 +1,7 @@
 # Szymon Hadada
 email: szymon.hadada@gmail.com
 
-
+---
 Projekt 1: Alien Invasion
 ---
 Gra, w której sterujemy statkiem kosmicznym, a naszym zadaniem jest
