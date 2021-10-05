@@ -5,7 +5,8 @@ email: szymon.hadada@gmail.com
 Projekt 1: Alien Invasion
 ---
 Gra, w której sterujemy statkiem kosmicznym, a naszym zadaniem jest
-zestrzeliwanie zbliżających się obych 
+zestrzeliwanie zbliżających się obych
+** asd
 * [Alien Invasion](https://github.com/Shumpy09/alien-invasion)
 
 Projekt 2: Wizualizacja danych
