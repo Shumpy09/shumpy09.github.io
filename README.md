@@ -21,7 +21,7 @@ Projekt 3: Aplikacja internetowa
 
 Aplikacja umożliwia użytkownikowi założenie konta oraz dodawanie postów, 
 dzięki którym może m.in. monitorować swoje postępy w nauce
-
+https://github.com/Shumpy09/blog
 
 repozytorium [uDemy](https://github.com/Shumpy09/kurs-uDemy)
 ---
