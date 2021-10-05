@@ -1,4 +1,4 @@
-# Szymon Hadada
+# Szymon Hadada - repozytorium
 email: szymon.hadada@gmail.com
 
 ---
